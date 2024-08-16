@@ -6,7 +6,7 @@ import java.util.TimeZone;
 public class SQLConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/courseschema";
     private static final String USER = "root";
-    private static final String PASSWORD = "Gl30127602";
+        private static final String PASSWORD = "qwerty1234";
 
     public static Connection getConnection() throws SQLException
     {
